@@ -1,4 +1,4 @@
-Exploring Sentiment Analysis on Movie Reviews: A Natural Language Processing (NLP) Approach
+𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗦𝗲𝗻𝘁𝗶𝗺𝗲𝗻𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗼𝗻 𝗠𝗼𝘃𝗶𝗲 𝗥𝗲𝘃𝗶𝗲𝘄𝘀: 𝗔 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗡𝗟𝗣) 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵
 
 In this project, I developed sentiment analysis on movie reviews, employing Natural Language Processing (NLP) techniques. The goal was to create a website using Streamlit for interactive analysis.
 
