@@ -3,6 +3,10 @@
 ![streamlit](https://github.com/sunilkumar19-ai/Sentiment-analysis-on-movie-reviews-using-NLP/assets/85916777/0d3004d4-1ad0-4560-9ccb-4447e0098c35)
 
 
+
+https://github.com/sunilkumar19-ai/Sentiment-analysis-on-movie-reviews-using-NLP/assets/85916777/fcd8cd00-587b-4d8b-a47f-e0751b973f9b
+
+
 In this project, I developed sentiment analysis on movie reviews, employing Natural Language Processing (NLP) techniques. The goal was to create a website using Streamlit for interactive analysis.
 
 To build a robust predictive model, I utilized a dataset comprising around 10,000 reviews sourced from the IMDb dataset. The preprocessing phase involved vectorizing the categorical data using the bag-of-words technique.
